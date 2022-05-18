@@ -1,7 +1,7 @@
 package csv
 
 import (
-	"github.com/wildducktheories/go-csv/utils"
+	"github.com/elwin/go-csv/utils"
 )
 
 // Given a header-prefixed input stream of CSV records select the fields that match the specified key (Key).

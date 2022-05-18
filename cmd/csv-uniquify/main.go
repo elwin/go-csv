@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/wildducktheories/go-csv"
+	"github.com/elwin/go-csv"
 
 	"flag"
 	"fmt"

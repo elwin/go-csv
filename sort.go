@@ -2,8 +2,9 @@ package csv
 
 import (
 	"fmt"
-	"github.com/wildducktheories/go-csv/utils"
 	"sort"
+
+	"github.com/elwin/go-csv/utils"
 )
 
 // An adapter that converts a slice of CSV records into an instance of sort.Interface using the

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wildducktheories/go-csv"
-	"github.com/wildducktheories/go-csv/utils"
+	"github.com/elwin/go-csv"
+	"github.com/elwin/go-csv/utils"
 )
 
 func configure(args []string) (*csv.SortProcess, error) {

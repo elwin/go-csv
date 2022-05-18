@@ -1,7 +1,7 @@
 package csv
 
 import (
-	"github.com/wildducktheories/go-csv/utils"
+	"github.com/elwin/go-csv/utils"
 )
 
 // A Join can be used to construct a process that will join two streams of CSV records by matching

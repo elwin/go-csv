@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wildducktheories/go-csv"
+	"github.com/elwin/go-csv"
 )
 
 const (

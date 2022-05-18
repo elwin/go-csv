@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/wildducktheories/go-csv"
+	"github.com/elwin/go-csv"
 )
 
 func configure(args []string) (*csv.InfluxLineFormatProcess, error) {

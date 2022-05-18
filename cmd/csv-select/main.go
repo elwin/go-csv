@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wildducktheories/go-csv"
+	"github.com/elwin/go-csv"
 )
 
 func configure(args []string) (*csv.SelectProcess, error) {

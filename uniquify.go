@@ -2,7 +2,8 @@ package csv
 
 import (
 	"fmt"
-	"github.com/wildducktheories/go-csv/utils"
+
+	"github.com/elwin/go-csv/utils"
 )
 
 // Given a header-prefixed input stream of CSV records and the specification of a partial key (PartialKey)

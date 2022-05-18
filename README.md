@@ -25,11 +25,11 @@ INSTALLATION
 The instructions assume that there is a local go installation available, that the binaries
 will be installed into $GOPATH/bin and this directory is already on the user's PATH.
 
-	go install github.com/wildducktheories/go-csv/...
+	go install github.com/elwin/go-csv/...
 
 DOCUMENTATION
 =============
-For more information, refer to https://godoc.org/github.com/wildducktheories/go-csv .
+For more information, refer to https://godoc.org/github.com/elwin/go-csv .
 
 LICENSE
 =======

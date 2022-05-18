@@ -1,7 +1,7 @@
 package csv
 
 import (
-	"github.com/wildducktheories/go-csv/utils"
+	"github.com/elwin/go-csv/utils"
 
 	"crypto/md5"
 	"fmt"

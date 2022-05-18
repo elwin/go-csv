@@ -2,12 +2,13 @@ package csv
 
 import (
 	"fmt"
-	"github.com/wildducktheories/go-csv/utils"
 	"os"
+
+	"github.com/elwin/go-csv/utils"
 )
 
-//Record provides keyed access to the fields of data records where each field
-//of a data record is keyed by the value of the corresponding field in the header record.
+// Record provides keyed access to the fields of data records where each field
+// of a data record is keyed by the value of the corresponding field in the header record.
 type Record interface {
 	// Return the header of the record.
 	Header() []string
